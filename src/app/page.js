@@ -57,7 +57,7 @@ export default function Home() {
         </motion.h2>
 
         <motion.p initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: 0.2 }} className="mt-6 text-gray-400 text-lg leading-relaxed">
-          I’m Vedant Tyagi, a passionate <span className="text-white font-medium">13-year-old full-stack developer</span> who enjoys building real-world web applications.
+          I’m Vedant Tyagi, a passionate <span className="text-white font-medium">full-stack developer</span> who enjoys building real-world web applications.
           I focus on writing clean, scalable code and designing interfaces that feel smooth and intuitive.
           I love learning how things work under the hood and improving every project step by step.
         </motion.p>
